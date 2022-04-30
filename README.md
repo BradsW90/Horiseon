@@ -22,6 +22,10 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+### Page Details
+
+![Web App Screenshot](./assets/images/Horiseon-screenshot.png)
+
 ## Changes Made For Accessibility
 
 - Changed first container div to Header
